@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Guilherme-dev15/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-dev15&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-dev15&layout=compact&langs_count=6&theme=transparent"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-dev15&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-dev15&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Entre em contato
  
 <div> 
   <!--a href="#" target="_blank">
