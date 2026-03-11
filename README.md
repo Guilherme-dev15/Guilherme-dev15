@@ -1,8 +1,6 @@
 ## Olá! Sou o Guilherme dos Anjos Macedo 👋
 
-Transformo necessidades de negócio em software que funciona de verdade. Sou um **Desenvolvedor Full Stack** com background real em infraestrutura de TI (+5 anos). 
-
-O que isso significa na prática? Eu não apenas escrevo o código das aplicações, eu construo sistemas já pensando na arquitetura, na performance, na segurança e em como eles vão rodar no servidor. Foco em soluções escaláveis, código limpo e zero enrolação.
+Desenvolvedor Full Stack especializado no ecossistema JavaScript e TypeScript. Construo aplicações web de ponta a ponta, desde a estruturação de bancos de dados e APIs RESTful até interfaces responsivas e escaláveis.
 
 <div>
    <a href="https://github.com/Guilherme-dev15/">
@@ -13,13 +11,10 @@ O que isso significa na prática? Eu não apenas escrevo o código das aplicaç�
 
 ### 🚀 Principais Projetos em Destaque
 
-* 🛒 **[Clean APP (ERP/PDV)](#):** Sistema full stack serverless para gestão de vendas e controle automático de estoque. *(React 19, TypeScript, Firebase)*
-* 📄 **[CurriculoPro (SaaS)](#):** Plataforma web automatizada para criação e gestão de currículos otimizados. *(Vue 3, Node.js, Prisma)*
-* 💰 **[FinanceApp](#):** Aplicação web para gestão inteligente de finanças e dívidas pessoais. *(React, NestJS, MongoDB)*
-* 🤖 **[Bot Extrator Python](#):** Script de automação para extração e análise de dados em grupos. *(Python)*
-
-*(Lembrete: clique nos projetos acima para ver o código e a aplicação rodando!)*
-
+* 🛒 **[Clean APP (ERP/PDV)]([#](https://github.com/Guilherme-dev15/clean-app)):** Sistema full stack para gestão de vendas e controle de estoque. *(React 19, TypeScript, Firebase)*
+* 📄 **[CurriculoPro (SaaS)]([#](https://github.com/Guilherme-dev15/CurriculoPro)):** Plataforma web para criação e gestão de currículos otimizados. *(Vue 3, Node.js, Prisma)*
+* 💰 **[FinanceApp]([#](https://github.com/Guilherme-dev15/finance-app)):** Aplicação web para gestão inteligente de finanças pessoais. *(React, NestJS, MongoDB)*
+* 
 <br>
 
 ### 💻 Stack e Ferramentas
