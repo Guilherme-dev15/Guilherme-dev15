@@ -10,7 +10,7 @@ Sou um **Desenvolvedor Full Stack** com mais de 5 anos de vivência em infraestr
 <br>
 
 ### 🚀 Principais Projetos em Destaque
-* **Limpeza Fácil (ERP/PDV):** Sistema full stack para gestão de vendas e estoque. *(React 19, TypeScript, Firebase)*
+* **Clean APP (ERP/PDV):** Sistema full stack para gestão de vendas e estoque. *(React 19, TypeScript, Firebase)*
 * **CurriculoPro (SaaS):** Plataforma para criação e gestão de currículos otimizados. *(Vue 3, Node.js, Prisma)*
 * **FinanceApp:** Aplicação web para gestão financeira de dívidas pessoais. *(React, NestJS, MongoDB)*
 * **Bot Extrator Python:** Script de automação para extração e análise de dados em grupos. *(Python)*
