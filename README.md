@@ -12,9 +12,9 @@ Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de b
 
 ### 🚀 Principais Projetos em Destaque
 
-* 🛒 **[Clean APP (ERP/PDV)](#):** Sistema full stack para gestão de vendas e controle de estoque. *(React 19, TypeScript, Firebase)*
-* 📄 **[CurriculoPro (SaaS)](#):** Plataforma web para criação e gestão de currículos otimizados. *(Vue 3, Node.js, Prisma)*
-* 💰 **[FinanceApp](#):** Aplicação web para gestão inteligente de finanças pessoais. *(React, NestJS, MongoDB)*
+* 🛒 **[Clean APP (ERP/PDV)](https://github.com/Guilherme-dev15/clean-app):** Sistema full stack para gestão de vendas e controle de estoque. *(React 19, TypeScript, Firebase)*
+* 📄 **[CurriculoPro (SaaS)](https://github.com/Guilherme-dev15/CurriculoPro):** Plataforma web para criação e gestão de currículos otimizados. *(Vue 3, Node.js, Prisma)*
+* 💰 **[FinanceApp](https://github.com/Guilherme-dev15/finance-app):** Aplicação web para gestão inteligente de finanças pessoais. *(React, NestJS, MongoDB)*
 
 <br>
 
