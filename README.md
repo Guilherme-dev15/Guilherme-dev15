@@ -1,6 +1,6 @@
 ## Olá! Sou o Guilherme dos Anjos Macedo 👋
 
-Desenvolvedor Full Stack especializado no ecossistema JavaScript e TypeScript. Construo aplicações web de ponta a ponta, desde a estruturação de bancos de dados e APIs RESTful até interfaces responsivas e escaláveis.
+Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de bancos de dados e APIs RESTful até interfaces responsivas e escaláveis.
 
 <div>
    <a href="https://github.com/Guilherme-dev15/">
