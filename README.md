@@ -6,15 +6,16 @@ Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de b
    <a href="https://github.com/Guilherme-dev15/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-dev15&show_icons=true&theme=midnight-purple&locale=pt-br"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-dev15&layout=compact&langs_count=6&theme=midnight-purple"/>
+   </a>
 </div>
 <br>
 
 ### 🚀 Principais Projetos em Destaque
 
-* 🛒 **[Clean APP (ERP/PDV)]([#](https://github.com/Guilherme-dev15/clean-app)):** Sistema full stack para gestão de vendas e controle de estoque. *(React 19, TypeScript, Firebase)*
-* 📄 **[CurriculoPro (SaaS)]([#](https://github.com/Guilherme-dev15/CurriculoPro)):** Plataforma web para criação e gestão de currículos otimizados. *(Vue 3, Node.js, Prisma)*
-* 💰 **[FinanceApp]([#](https://github.com/Guilherme-dev15/finance-app)):** Aplicação web para gestão inteligente de finanças pessoais. *(React, NestJS, MongoDB)*
-* 
+* 🛒 **[Clean APP (ERP/PDV)](#):** Sistema full stack para gestão de vendas e controle de estoque. *(React 19, TypeScript, Firebase)*
+* 📄 **[CurriculoPro (SaaS)](#):** Plataforma web para criação e gestão de currículos otimizados. *(Vue 3, Node.js, Prisma)*
+* 💰 **[FinanceApp](#):** Aplicação web para gestão inteligente de finanças pessoais. *(React, NestJS, MongoDB)*
+
 <br>
 
 ### 💻 Stack e Ferramentas
@@ -34,7 +35,6 @@ Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de b
 <div>
   <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
@@ -44,6 +44,7 @@ Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de b
 <div>
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Firebase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
 <br>
