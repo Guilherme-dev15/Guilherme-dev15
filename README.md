@@ -1,4 +1,4 @@
-## Olá! Sou o Guilherme dos Anjos Macedo 👋
+## Olá! Sou o Guilherme 👋
 
 Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de bancos de dados e APIs RESTful até interfaces responsivas e escaláveis.
 
