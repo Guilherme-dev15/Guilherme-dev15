@@ -21,7 +21,7 @@ Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de b
 ### 💻 Stack e Ferramentas
 
 **Front-end**<br>
-<div>
+<div style="display: inline-block;">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
@@ -32,7 +32,7 @@ Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de b
 <br>
 
 **Back-end & Dados**<br>
-<div>
+<div style="display: inline-block;">
   <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
@@ -42,7 +42,7 @@ Desenvolvedor Full Stack. Construo aplicações web, desde a estruturação de b
 <br>
 
 **DevOps & Infraestrutura**<br>
-<div>
+<div style="display: inline-block;">
   <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Firebase" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
