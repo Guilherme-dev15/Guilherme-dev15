@@ -73,7 +73,7 @@
 ## 🌐 Onde me encontrar
 
 <div align="center"> 
-  <a href="https://linkedin.com/in/guilherme-dev15"> 
+  <a href="https://www.linkedin.com/in/guilherme-a-anjos/"> 
     <img height="35" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a> 
   <a href="mailto:guilherme.macedo1598@gmail.com"> 
