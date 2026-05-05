@@ -59,9 +59,14 @@
 ## 📈 GitHub Stats
 
 <div align="center"> 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-dev15&theme=midnight-purple&hide_border=true"/> 
+  <!-- Gráfico de Streak atualizado com domínio oficial e tradução -->
+  <img height="180" src="https://streak-stats.demolab.com/?user=Guilherme-dev15&theme=midnight-purple&hide_border=true&locale=pt_BR"/> 
+  
+  <!-- Seu card de repositório em destaque -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-dev15&repo=clean-app&theme=midnight-purple"/> 
 </div>
+
+---
 
 ---
 
@@ -85,5 +90,5 @@
 <div align="center"> 
   <br />
   <img src="https://komarev.com/ghpvc/?username=Guilherme-dev15&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors Counter" /> 
-  <p><i>Feito com ❤️ usando GitHub Actions</i></p> 
+
 </div>
