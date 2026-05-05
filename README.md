@@ -8,8 +8,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Guilherme-dev15?style=social)](https://github.com/Guilherme-dev15)
 [![Twitter Follow](https://img.shields.io/twitter/follow/guilhermedev15?style=social)](https://twitter.com/guilhermedev15)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-dev15&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
-
 </div>
 
 ---
