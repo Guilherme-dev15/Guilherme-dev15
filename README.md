@@ -56,17 +56,14 @@
 
 ## 📈 GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guilherme-dev15&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-dev15&show_icons=true" />
-</picture>
+
+<div align="center"> 
+  <!-- Gráfico de Streak atualizado com domínio oficial e tradução -->
+  <img height="180" src="https://streak-stats.demolab.com/?user=Guilherme-dev15&theme=midnight-purple&hide_border=true&locale=pt_BR"/> 
+  
+  <!-- Seu card de repositório em destaque -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Guilherme-dev15&repo=clean-app&theme=midnight-purple"/> 
+</div>
 
 ---
 
